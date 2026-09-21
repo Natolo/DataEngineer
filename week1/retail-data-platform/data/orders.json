@@ -1,0 +1,44 @@
+[
+  {
+    "order_id": "O001",
+    "order_date": "2026-09-18T09:15:00",
+    "customer_id": "C101",
+    "total": 49.90,
+    "status": "paid"
+  },
+  {
+    "order_id": "O002",
+    "order_date": "2026-09-18T10:42:00",
+    "customer_id": "C102",
+    "total": 18.50,
+    "status": "paid"
+  },
+  {
+    "order_id": "O003",
+    "order_date": "2026-09-19T14:05:00",
+    "customer_id": null,
+    "total": 72.00,
+    "status": "pending"
+  },
+  {
+    "order_id": "O003",
+    "order_date": "2026-09-19T14:05:00",
+    "customer_id": "C103",
+    "total": 72.00,
+    "status": "paid"
+  },
+  {
+    "order_id": "O005",
+    "order_date": "not-a-date",
+    "customer_id": "C104",
+    "total": "invalid-total",
+    "status": "paid"
+  },
+  {
+    "order_id": "O006",
+    "order_date": "2026-09-20T08:30:00",
+    "customer_id": "C105",
+    "total": -12.00,
+    "status": "refunded"
+  }
+]
