@@ -1,0 +1,16 @@
+pyproject.toml
+src/retail_data_platform.egg-info/PKG-INFO
+src/retail_data_platform.egg-info/SOURCES.txt
+src/retail_data_platform.egg-info/dependency_links.txt
+src/retail_data_platform.egg-info/top_level.txt
+src/retail_ingestion/__init__.py
+src/retail_ingestion/csv_reader.py
+src/retail_ingestion/database.py
+src/retail_ingestion/json_reader.py
+src/retail_ingestion/paths.py
+src/retail_ingestion/run.py
+src/retail_ingestion/validation.py
+test/test_database.py
+test/test_paths.py
+test/test_readers.py
+test/test_validation.py
