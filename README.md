@@ -24,8 +24,7 @@ rappresenta il lavoro cumulativo di entrambe le settimane.
 | 11 | Spark + Kafka | distributed batch, lazy eval, partition, topic, consumer, offset |
 | 12 | Portfolio + interview prep | README, architettura, trade-off, failure scenario, system design |
 
-**Stato attuale:** Week 1 e Week 2 completate. Week 3 e il prossimo
-modulo del percorso.
+**Stato attuale:** Week 1 e Week 2 completate. Week 3 WIP
 
 ## Argomenti coperti
 
