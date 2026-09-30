@@ -7,12 +7,25 @@ Il progetto e iniziato durante la Week 1 ed e stato esteso durante la Week 2.
 La directory storica resta `week1/retail-data-platform`, ma il suo contenuto
 rappresenta il lavoro cumulativo di entrambe le settimane.
 
-## Stato del percorso
+## Roadmap del percorso
 
-| Periodo | Focus | Stato |
+| Week | Focus | Obiettivo pratico |
 |---|---|---|
-| Week 1 | Fondamenti Python per Data Engineering | Completata |
-| Week 2 | Python orientato alla produzione e test automatici | Completata |
+| 1 | Python fundamentals | venv, moduli, pathlib, CSV/JSON, datetime, exceptions, logging, type hints, DB connection, generatori, context manager, struttura progetto |
+| 2 | Python production-oriented + testing | pytest, fixture, parametrizzazione, separation of concerns, config, validation, error strategy, idempotenza |
+| 3 | PostgreSQL + Data Modeling | schema, fact/dimension, star schema, surrogate key, constraints, index, query plan |
+| 4 | ETL/ELT + incremental loading | staging, upsert, merge, deduplica, incremental load, rerun sicuri |
+| 5 | dbt | models, sources, refs, tests, lineage, incremental models |
+| 6 | Docker | Dockerfile, image, container, volume, network, Compose |
+| 7 | Airflow | DAG, task, retry, schedule, catchup, backfill, failure handling |
+| 8 | Git + CI/CD | branching, PR, GitHub Actions, test automatici |
+| 9 | Cloud fundamentals | object storage, managed DB, IAM, logging, secrets |
+| 10 | Data Warehouse / Lake / Parquet | OLTP vs OLAP, warehouse, lake, lakehouse, partitioning, columnar storage |
+| 11 | Spark + Kafka | distributed batch, lazy eval, partition, topic, consumer, offset |
+| 12 | Portfolio + interview prep | README, architettura, trade-off, failure scenario, system design |
+
+**Stato attuale:** Week 1 e Week 2 completate. Week 3 e il prossimo
+modulo del percorso.
 
 ## Argomenti coperti
 
